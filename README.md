@@ -1,7 +1,5 @@
 # hashMap
 
-# Linked-Lists
-
 <p>Exercise done to practice with HashMap.</p>
 <a href="https://www.theodinproject.com/lessons/javascript-hashmap#project-solution" target="_blank">Live preview</a>
 
